@@ -9,7 +9,7 @@ Interactive web-based Sudoku solver using backtracking algorithm.
 - Visual feedback for solved cells
 
 ## Live Demo
-[Try it here!](https://YOUR_USERNAME.github.io/sudoku-solver/)
+[Try it here!](https://prathamA-343.github.io/sudoku-solver/)
 
 ## Algorithm
 Implements recursive backtracking to solve Sudoku puzzles efficiently.
